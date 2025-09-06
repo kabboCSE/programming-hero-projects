@@ -4,5 +4,5 @@ function onlyCharacter(str) {
   }
   return str.split(" ").join("").toUpperCase();
 }
-const res = onlyCharacter("  h e llo wor   ld");
-console.log(res);
+// const res = onlyCharacter("  h e llo wor   ld");
+// console.log(res);
